@@ -7,19 +7,22 @@ header{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    img{
-        margin-left: 5%;
-        
+    .logo{
+        width: 50%;
+        text-align: left;
+        padding-left: 8%;
     }
     nav{
-        width: 80%;
+        width: 50%;
         text-align: right;
-        margin-right: 15%;
-        font-family: $genral;
+        padding-right: 8%;
+        font-family: $general;
+        color: $text-general-color;
         a{
             text-decoration: none;
-            text-transform: uppercase;
+            text-transform: uppercase;          
             padding: 0.5% 1.3%;
+            font-weight: bold;
         }
         .active{
             border: 1px solid $btnBorder;

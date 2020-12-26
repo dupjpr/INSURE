@@ -11,18 +11,136 @@ header {
   flex-direction: row;
   justify-content: space-between;
   align-items: center; }
-  header img {
-    margin-left: 5%; }
+  header .logo {
+    width: 50%;
+    text-align: left;
+    padding-left: 8%; }
   header nav {
-    width: 80%;
+    width: 50%;
     text-align: right;
-    margin-right: 15%;
-    font-family: "Karla", sans-serif; }
+    padding-right: 8%;
+    font-family: "Karla", sans-serif;
+    color: #95a9c6; }
     header nav a {
       text-decoration: none;
       text-transform: uppercase;
-      padding: 0.5% 1.3%; }
+      padding: 0.5% 1.3%;
+      font-weight: bold; }
     header nav .active {
       border: 1px solid black; }
+
+.sectionOne {
+  position: relative;
+  width: 100%;
+  height: 58vh;
+  background-color: #2d2640;
+  display: flex;
+  flex-direction: row;
+  padding: 0 8%;
+  justify-content: center; }
+  .sectionOne img {
+    width: 24%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 2; }
+  .sectionOne .colOne {
+    width: 50%;
+    height: 100%;
+    margin-top: 6%; }
+    .sectionOne .colOne hr {
+      width: 12%; }
+    .sectionOne .colOne h1 {
+      color: white;
+      font-family: "DM Serif Display", serif;
+      font-size: 3rem; }
+    .sectionOne .colOne p {
+      color: #95a9c6;
+      font-family: "Karla", sans-serif;
+      margin-top: 1%;
+      margin-bottom: 5%; }
+    .sectionOne .colOne a {
+      text-decoration: none;
+      font-family: "Karla", sans-serif;
+      color: white;
+      text-transform: uppercase;
+      border: 1px solid white;
+      padding: 1.5% 2%; }
+  .sectionOne .colTwo {
+    position: relative;
+    width: 50%; }
+    .sectionOne .colTwo img {
+      width: 80%;
+      position: absolute;
+      right: 0;
+      top: 14%;
+      z-index: 1; }
+
+.sectionTwo {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  padding: 0 8%;
+  display: grid;
+  grid-template: 30% 35% 35% / 100%; }
+  .sectionTwo .decoLeft {
+    width: 8%;
+    position: absolute;
+    top: -15%; }
+  .sectionTwo .heading {
+    margin-top: 6%; }
+    .sectionTwo .heading hr {
+      width: 12%;
+      margin-bottom: 3%; }
+    .sectionTwo .heading h2 {
+      color: black;
+      font-family: "DM Serif Display", serif;
+      font-size: 3rem; }
+  .sectionTwo .container {
+    display: grid;
+    grid-template: 100% / 33.3% 33.3% 33.3%; }
+    .sectionTwo .container .item {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      font-family: "Karla", sans-serif;
+      padding: 0 5%; }
+      .sectionTwo .container .item span {
+        margin-bottom: 8%; }
+      .sectionTwo .container .item h4 {
+        font-family: "DM Serif Display", serif;
+        font-weight: bolder; }
+      .sectionTwo .container .item p {
+        color: #95a9c6;
+        margin-top: 3%;
+        text-align: justify;
+        font-size: 0.9rem; }
+  .sectionTwo .banner {
+    position: relative;
+    height: 70%;
+    background-color: #2d2640;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 8%;
+    overflow: hidden; }
+    .sectionTwo .banner h2 {
+      width: 50%;
+      color: white;
+      font-family: "DM Serif Display", serif;
+      font-size: 3rem; }
+    .sectionTwo .banner a {
+      text-decoration: none;
+      font-family: "Karla", sans-serif;
+      color: white;
+      text-transform: uppercase;
+      border: 1px solid white;
+      padding: 0.8% 1.8%; }
+    .sectionTwo .banner img {
+      width: 33%;
+      position: absolute;
+      top: -60%;
+      right: 0;
+      transform: rotate(-4deg); }
 
 /*# sourceMappingURL=style.css.map */

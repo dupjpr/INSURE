@@ -1,0 +1,28 @@
+@import "variables";
+
+header{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    img{
+        margin-left: 5%;
+        
+    }
+    nav{
+        width: 80%;
+        text-align: right;
+        margin-right: 15%;
+        font-family: $genral;
+        a{
+            text-decoration: none;
+            text-transform: uppercase;
+            padding: 0.5% 1.3%;
+        }
+        .active{
+            border: 1px solid $btnBorder;
+        }
+    }
+}

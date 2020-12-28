@@ -1,0 +1,69 @@
+@import "variables";
+.sectionThree{
+    position: relative;
+    width: 100%;
+    height: 50vh;
+    display: grid;
+    grid-template: 50% 50% / 100%;
+    padding: 0 8%;
+    background-color: $back-footer-color;
+    .sectionThree-logo{
+        position: relative;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        padding-bottom: 0;
+        z-index: 2;
+        .sectionThree-logo-img{
+            width: 50%;
+            img{
+                width: 20%;
+            }
+        }
+        .sectionThree-logo-social{
+            width: 50%;
+            text-align: end;
+            span{
+                margin-left: 2%;
+            }
+        }
+        hr{
+            position: absolute;
+            left: 0;
+            bottom: 25%;
+            width: 100%;
+            background-color: $icon-footer-color;
+            border: 1.5px solid $icon-footer-color;
+        }
+    }
+    .container{
+        display: grid;
+        grid-template: 100% / 25% 25% 25% 25%;
+        .item{
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            text-transform: uppercase;
+            font-family: $general;
+            h5{
+                font-size: 0.8rem;
+                margin-bottom: 6%;
+                color: $text-general-color;
+            }
+            a{
+                margin-top: 1%;
+                font-size: 0.7rem;
+                text-decoration: none;
+                color: $btnBorder;
+                font-weight: bold;
+            }
+        }
+    }
+    .patter{
+        position: absolute;
+        top: 0;
+        left: -2%;
+        width: 37%;
+      
+    }
+}

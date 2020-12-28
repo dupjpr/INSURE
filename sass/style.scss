@@ -8,3 +8,14 @@
 @import "header";
 @import "sectionOne";
 @import "sectionTwo";
+@import "sectionThree";
+@import "variables";
+
+.attribution{
+    text-align: center;
+    font-family: $general;
+    font-weight: bold;
+    color: $btnBorder;
+    background-color: $back-footer-color;
+    padding: 1.5% 0;
+}

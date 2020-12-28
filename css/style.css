@@ -36,8 +36,8 @@ header {
   background-color: #2d2640;
   display: flex;
   flex-direction: row;
-  padding: 0 8%;
-  justify-content: center; }
+  justify-content: center;
+  padding: 0 8%; }
   .sectionOne img {
     width: 24%;
     position: absolute;
@@ -142,5 +142,69 @@ header {
       top: -60%;
       right: 0;
       transform: rotate(-4deg); }
+
+.sectionThree {
+  position: relative;
+  width: 100%;
+  height: 50vh;
+  display: grid;
+  grid-template: 50% 50% / 100%;
+  padding: 0 8%;
+  background-color: #fafafa; }
+  .sectionThree .sectionThree-logo {
+    position: relative;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-bottom: 0;
+    z-index: 2; }
+    .sectionThree .sectionThree-logo .sectionThree-logo-img {
+      width: 50%; }
+      .sectionThree .sectionThree-logo .sectionThree-logo-img img {
+        width: 20%; }
+    .sectionThree .sectionThree-logo .sectionThree-logo-social {
+      width: 50%;
+      text-align: end; }
+      .sectionThree .sectionThree-logo .sectionThree-logo-social span {
+        margin-left: 2%; }
+    .sectionThree .sectionThree-logo hr {
+      position: absolute;
+      left: 0;
+      bottom: 25%;
+      width: 100%;
+      background-color: #ebebeb;
+      border: 1.5px solid #ebebeb; }
+  .sectionThree .container {
+    display: grid;
+    grid-template: 100% / 25% 25% 25% 25%; }
+    .sectionThree .container .item {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      text-transform: uppercase;
+      font-family: "Karla", sans-serif; }
+      .sectionThree .container .item h5 {
+        font-size: 0.8rem;
+        margin-bottom: 6%;
+        color: #95a9c6; }
+      .sectionThree .container .item a {
+        margin-top: 1%;
+        font-size: 0.7rem;
+        text-decoration: none;
+        color: black;
+        font-weight: bold; }
+  .sectionThree .patter {
+    position: absolute;
+    top: 0;
+    left: -2%;
+    width: 37%; }
+
+.attribution {
+  text-align: center;
+  font-family: "Karla", sans-serif;
+  font-weight: bold;
+  color: black;
+  background-color: #fafafa;
+  padding: 1.5% 0; }
 
 /*# sourceMappingURL=style.css.map */

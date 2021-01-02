@@ -6,7 +6,7 @@ https://dupjpr.github.io/INSURE/
 
 ## Description :page_facing_up:
 
-This is a landing page that have information about a company. In this exercise, I used SASS to design the style of the page. It is a web page adaptable to different screen sizes. Different breackpoints and styles added.
+This is a landing page that have information about a company. In this exercise, I used SASS to design the style of the page. It is a web page adaptable to different screen sizes, different breakpoints and styles added.
 
 Technologies
 * HTML.

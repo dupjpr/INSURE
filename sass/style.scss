@@ -12,10 +12,16 @@
 @import "variables";
 
 .attribution{
+    width: 100%;
+    min-width: 375px;
     text-align: center;
     font-family: $general;
     font-weight: bold;
     color: $btnBorder;
     background-color: $back-footer-color;
     padding: 1.5% 0;
+    @media(min-width: 480px){
+        min-width: 680px;
+
+    }
 }

@@ -1,6 +1,4 @@
-# Insure landing page
-
-![Design preview for the Insure landing page coding challenge](./design/desktop-preview.jpg)
+# INSURE LANDING PAGE
 
 The result is available in the next link:
 

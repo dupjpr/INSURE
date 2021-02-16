@@ -16,7 +16,7 @@ This is a landing page of a company where the information is displayed in three 
 
 ## Autor
 
-Juan Pablo Rodríguez Guevara - Frontend Web Developer
+Juan Pablo Rodríguez Guevara.
 
 ## Contact
 

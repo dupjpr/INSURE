@@ -20,9 +20,7 @@ Juan Pablo Rodríguez Guevara - Frontend Web Developer
 
 ## Contact
 
-
 * Email: dupjpr@gmail.com
-
-*[LinkedIn](https://www.linkedin.com/in/juanp-rodr%C3%ADguez/)
+* [LinkedIn](https://www.linkedin.com/in/juanp-rodr%C3%ADguez/)
 
 

@@ -1,10 +1,10 @@
-# INSURE LANDING PAGE
+# INSURE LANDING PAGE :rocket:
 
 The result is available in the next link:
 
 https://dupjpr.github.io/INSURE/
 
-## Description :page_facing_up:
+## Description :notebook_with_decorative_cover:
 
 This is a landing page of a company where the information is displayed in three basic sections. This is a responsive web page and have four breakpoints, 480px, 768px, 1024px and 1440px. 
 

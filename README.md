@@ -22,6 +22,6 @@ This is a landing page of a company where the information is displayed in three 
 
 * Email: dupjpr@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/juanp-rodr%C3%ADguez/)
-* [GitHub](https://github.com/dupjpr)
+* [GitHub](https://github.com/dupjpr) :octocat:
 
 

@@ -20,8 +20,8 @@ This is a landing page of a company where the information is displayed in three 
 
 ## Contact
 
-* Email: dupjpr@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/juanp-rodr%C3%ADguez/)
-* :octocat: [GitHub](https://github.com/dupjpr) 
+:email: dupjpr@gmail.com
+:briefcase: [LinkedIn](https://www.linkedin.com/in/juanp-rodr%C3%ADguez/)
+:octocat: [GitHub](https://github.com/dupjpr) 
 
 

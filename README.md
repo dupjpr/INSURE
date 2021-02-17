@@ -10,9 +10,9 @@ This is a landing page of a company where the information is displayed in three 
 
 ## Built With :atom:
 
-* HTML.
-* CSS.
-* SASS.
+* Html.
+* Css.
+* Sass.
 
 ## Autor
 

@@ -8,7 +8,7 @@ https://dupjpr.github.io/INSURE/
 
 This is a landing page of a company where the information is displayed in three basic sections. This is a responsive web page and have four breakpoints, 480px, 768px, 1024px and 1440px. 
 
-## Built With
+## Built With :atom:
 
 * HTML.
 * CSS.
@@ -22,6 +22,6 @@ This is a landing page of a company where the information is displayed in three 
 
 * Email: dupjpr@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/juanp-rodr%C3%ADguez/)
-* [GitHub](https://github.com/dupjpr) :octocat:
+* :octocat: GitHub](https://github.com/dupjpr) 
 
 

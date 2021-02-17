@@ -1,5 +1,5 @@
 # INSURE LANDING PAGE :rocket:
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
 The result is available in the next link:
 
 https://dupjpr.github.io/INSURE/
